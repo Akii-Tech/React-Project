@@ -6,6 +6,7 @@ function App() {
     <>
     <Navbar></Navbar>
     </>
+  //hi my name is akshay
   );
 }
 
